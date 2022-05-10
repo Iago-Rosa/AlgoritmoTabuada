@@ -3,7 +3,7 @@ var
     Cont, N, R: Inteiro
 inicio
      Cont <- 1
-     Escreva("Quer ver a tabuada de qual numero? ")
+     Escreva("Quer ver a tabuada de qual numero? ")   
      Leia(N)
      Repita
      R <- N * CONT
